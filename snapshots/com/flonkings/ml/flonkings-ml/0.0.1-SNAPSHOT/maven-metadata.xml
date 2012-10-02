@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.flonkings.ml</groupId>
+  <artifactId>flonkings-ml</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20121002.083901</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20121002083901</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20121002.083901-1</value>
+        <updated>20121002083901</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20121002.083901-1</value>
+        <updated>20121002083901</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
